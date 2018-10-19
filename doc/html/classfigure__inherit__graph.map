@@ -1,0 +1,5 @@
+<map id="figure" name="figure">
+<area shape="rect" id="node2" href="$classdisque.html" title="calculer la surface et le perimetre du disque " alt="" coords="5,80,65,107"/>
+<area shape="rect" id="node3" href="$classrectangle.html" title="calcule du perimetre et de la surface du rectangle " alt="" coords="90,80,165,107"/>
+<area shape="rect" id="node4" href="$classtriangle.html" title="triangle" alt="" coords="189,80,253,107"/>
+</map>
